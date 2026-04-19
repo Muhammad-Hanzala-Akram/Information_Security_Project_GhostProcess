@@ -1,4 +1,4 @@
-# 👻 Project SPECTRE
+# 👻 Project SPECTRE/Ghost Process
 ### Advanced Defense Evasion via Memory-Based Process Hollowing
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%2064--bit-blue?style=flat-square)
